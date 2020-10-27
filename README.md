@@ -8,6 +8,7 @@ time only accepted in 24 hour format
 example of two csv file entries:
 
 12:34,1234567890,13:34
+
 13:35,0987654321,14:35
 
 ===
