@@ -22,3 +22,4 @@ TO DO:
 DONE:
 - use csv for time and zoom codes insted of hardcode
 - make it possible to add time and zoom codes infinitely
+ 
